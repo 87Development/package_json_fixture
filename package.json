@@ -1,0 +1,16 @@
+{
+  "name": "projectradar-test-fixture",
+  "version": "1.0.0",
+  "dependencies": {
+    "lodash": "4.17.19",
+    "axios": "0.21.1",
+    "follow-redirects": "1.14.7",
+    "semver": "5.7.1",
+    "tough-cookie": "4.1.2",
+    "minimist": "1.2.5",
+    "node-fetch": "2.6.1",
+    "tar": "4.4.13",
+    "ansi-regex": "3.0.0",
+    "glob-parent": "3.1.0"
+  }
+}
